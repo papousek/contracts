@@ -24,11 +24,10 @@ se níže uvedeného dne měsíce a roku ve smyslu ustanovení § 685 a násl. o
 
 Pronajímatel prohlašuje, že je vlastníkem bytové jednotky č. 947/17, která se nachází v&nbsp;7. nadzemním podlaží budovy č.p. 946, 947, 948, Bystrc, byt. dům, v&nbsp;k.ú. Bystrc, obec Brno, okres Brno-město, postavené na&nbsp;pozemcích parc. č. 6012/1, 6012/2, 6012/3, 6013/1, 6013/2, 6014/1, zastavěná plocha a nádvoří, v k.ú. Bystrc, obec Brno, okres Brno-město. Byt – jednotka č. 947/17 je zapsána v katastru nemovitostí u&nbsp;Katastrálního úřadu pro Jihomoravský kraj, Katastrální pracoviště Brno-město, na&nbsp;listu vlastnictví č. 6059, pro obec Brno, k.ú. Bystrc, okres Brno-město. Tato bytová jednotka je předmětem nájemní smlouvy.
 
-Pronajímatel přenechává nájemci výše uvedený byt o velikosti 1+1 a celkové výměře 40 metrů čtverečních.
+Pronajímatel tímto přenechává nájemci za nájemné do užívání a nájemce od něj najímá do užívání byt uvedený výše.
 
 Nájemce se zavazuje byt řádně užívat, platit za užívání bytu nájemné a úhradu za služby spojené s užíváním bytu a plnit ostatní povinnosti stanovené mu touto smlouvou nebo obecně závaznými právními předpisy. Součástí užívání je též zařízení bytu, které je blíže specifikováno v&nbsp;příloze č. 1 této smlouvy.
 
-Nájemce je oprávněn užívat byt pouze za účelem bydlení.
 
 ## II. Doba trvání nájmu
 
