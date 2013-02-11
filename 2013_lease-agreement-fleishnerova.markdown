@@ -22,22 +22,21 @@ se níže uvedeného dne měsíce a roku ve smyslu ustanovení § 685 a násl. o
 
 ## I. Předmět nájmu
 
-Pronajímatel prohlašuje, že je vlastníkem bytové jednotky č. 947/17, která se nachází v&nbsp;7. nadzemním podlaží budovy č.p. 946, 947, 948, Bystrc, byt. dům, v&nbsp;k.ú. Bystrc, obec Brno, okres Brno-město, postavené na&nbsp;pozemcích parc. č. 6012/1, 6012/2, 6012/3, 6013/1, 6013/2, 6014/1, zastavěná plocha a nádvoří, v k.ú. Bystrc, obec Brno, okres Brno-město. Byt – jednotka č. 947/17 je zapsána v katastru nemovitostí u&nbsp;Katastrálního úřadu pro Jihomoravský kraj, Katastrální pracoviště Brno-město, na&nbsp;listu vlastnictví č. 6059, pro obec Brno, k.ú. Bystrc, okres Brno-město. Tato bytová jednotka je předmětem nájemní smlouvy.
+Pronajímatel prohlašuje, že je vlastníkem bytové jednotky č. 947/17, která se nachází v&nbsp;7. nadzemním podlaží budovy č.p. 946, 947, 948, Bystrc, byt. dům, v&nbsp;k.ú. Bystrc, obec Brno, okres Brno-město, postavené na&nbsp;pozemcích parc. č. 6012/1, 6012/2, 6012/3, 6013/1, 6013/2, 6014/1, zastavěná plocha a nádvoří, v k.ú. Bystrc, obec Brno, okres Brno-město. Byt – jednotka č. 947/17 je zapsána v katastru nemovitostí u&nbsp;Katastrálního úřadu pro Jihomoravský kraj, Katastrální pracoviště Brno-město, na&nbsp;listu vlastnictví č. 6059, pro obec Brno, k.ú. Bystrc, okres Brno-město. Tato bytová jednotka je předmětem nájemní smlouvy. Pronajímatel má právní i faktickou možnost disponovat s&nbsp;touto bytovou jednotkou.
 
 Pronajímatel tímto přenechává nájemci za nájemné do užívání a nájemce od něj najímá do užívání byt uvedený výše.
 
-Nájemce se zavazuje byt řádně užívat, platit za užívání bytu nájemné a úhradu za služby spojené s užíváním bytu a plnit ostatní povinnosti stanovené mu touto smlouvou nebo obecně závaznými právními předpisy. Součástí užívání je též zařízení bytu, které je blíže specifikováno v&nbsp;příloze č. 1 této smlouvy.
+## II. Účel nájemní smlouvy 
 
+Předmětnou bytovou jednotku přenechává pronajímatel nájemci k užívání za účelem bydlení pro nájemce. 
 
-## II. Doba trvání nájmu
+## III. Doba trvání nájmu
 
 Nájemní smlouva se sjednává na&nbsp;dobu určitou od … … … …. do … … … … ….
 
-## III. Nájemné a úhrada za služby spojené s užíváním bytu
+## IV. Nájemné a úhrada za služby spojené s užíváním bytu
 
 Nájemce se zavazuje platit pronajímateli nájemné ve výši **7.000,-&nbsp;Kč**, (slovy: sedm tisíc korun českých) měsíčně. 
-
-Smluvní strany se dohodly, že v&nbsp;nájemném jsou zahrnuty měsíční zálohy na&nbsp;úhradu za služby spojené s užíváním bytu, tedy zejména zálohy elektrickou energii, osvětlení společných prostor, vodné a stočné, odvoz domovního odpadu, úklid společných prostor, bytový fond, fond oprav. 
 
 Nájemce se zavazuje platit nájemné spojené s užíváním bytu měsíčně bezhotovostní platbou na&nbsp;účet č. **2203068661/6210**, a to vždy předem, nejpozději do 5. dne příslušného kalendářního měsíce, za který se nájemné spojené s užíváním bytu platí. 
 
@@ -45,7 +44,7 @@ Nájemné od 15. 2. 2013 do 28. 2. 2013 ve výši **3.250 Kč** je nájemce povi
 
 Při prodlení s peněžním plněním je nájemce povinen zaplatit pronajímateli smluvní pokutu ve výši 0,5% denní z dlužné částky až do zaplacení. 
 
-## IV. Práva a povinnosti pronajímatele
+## V. Práva a povinnosti pronajímatele
 
 Pronajímatel je povinen odevzdat nájemci byt včetně jeho zařízení ve stavu zpúsobilém pro řádné užívání a zajistit mu nerušený výkon jeho práv spojených s nájmem bytu. O předání bytu a jeho zařízení bude sepsán předávací protokol.
 
@@ -55,7 +54,7 @@ Pronajímatel se zavazuje provádět opravy bytu s výjimkou oprav uvedených v&
 
 Pronajímatel neodpovídá za ztráty nebo škody na&nbsp;majetku vneseného do bytu nájemcem, pokud ztrátu nebo vznik škody nezavinil.
 
-## V. Práva a povinnosti nájemce
+## VI. Práva a povinnosti nájemce
 
 Nájemce má právo na&nbsp;řádné a nerušené užívání bytu a služeb s užíváním bytu spojených. Nájemce prohlašuje, že se seznámil se stavem bytu a přebírá ho v&nbsp;tomto stavu do užívání.Nájemce se zavazuje:
 
@@ -79,7 +78,7 @@ Nájemce umožní pronajímateli přístup do bytu za účelem kontroly jeho sta
 
 Nájemce není oprávněn se na&nbsp;základě této smlouvy přihlásit k trvalému pobytu v&nbsp;bytě, který užívá na&nbsp;základě této nájemní smlouvy.
 
-## VI. Skončení nájmu
+## VII. Skončení nájmu
 
  Nájem skončí uplynutím sjednané doby nebo písemnou dohodou o skončení nájmu mezi pronajímatelem a nájemcem nebo odstoupením od smlouvy.
 
@@ -93,7 +92,7 @@ Další užívání bytu nájemcem po skončení platnosti této smlouvy se pova
 
 Po skončení platnosti této smlouvy není pronajímatel povinen zajistit nájemci náhradní byt nebo ubytování.
 
-## VII. Závěrečná ustanovení
+## VIII. Závěrečná ustanovení
 
  Veškeré právní vztahy vzniklé na&nbsp;základe této smlouvy se řídí příslušnými ustanoveními Občanského zákoníku a ostatními obecné platnými právními předpisy České republiky a českým právním řádem.
 
